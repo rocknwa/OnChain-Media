@@ -11,7 +11,7 @@ contract OpenMediaTest is Test {
     address public user2 = address(0x2); // Test address for user2
     address public unregisteredUser = address(0x3); // Test address for an unregistered user
 
-    //  Set up the test environment before each test
+    // Set up the test environment before each test
     function setUp() public {
         openMedia = new OpenMedia(); // Deploy a new instance of OpenMedia
         // Register users for testing
