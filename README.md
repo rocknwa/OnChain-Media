@@ -76,5 +76,5 @@ Contributions and ideas are welcome! Please feel free to open issues for bug rep
 
 ## Author
 
-* Gmail : [YourUsername](https://github.com/YourUsername)
+* Gmail : anitherock44@gmail.com
  
